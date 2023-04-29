@@ -1817,7 +1817,7 @@ Computer Area Style
 
 .computer-content {
   background-color: #eaf3fe;
-  padding: 30px;
+  padding: 43px;
 }
 
 .computer-content h2 {
@@ -2540,6 +2540,7 @@ Footer Top Area Style
   position: relative;
   background-attachment: fixed;
   z-index: 1;
+  
 }
 
 .footer-top-area::before {
@@ -2684,6 +2685,7 @@ Footer Top Area Style
   top: 0;
   color: #080808;
   font-size: 15px;
+
 }
 
 .single-widget.contact ul li span {
